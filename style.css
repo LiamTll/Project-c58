@@ -1,0 +1,31 @@
+body
+{
+    text-align: center;
+    background-color:#ccffe8;
+  background-repeat: no-repeat;
+}
+h1{
+  text-shadow:2px 2px #FEBBDO;
+  font-size:20px;
+  color: #58427a;
+  font-family: 'Ruslan Display', cursive;
+}
+#bio{
+    padding:20px;
+    font-size:18;
+    text-align:center;
+}
+img
+{
+  border-radius:50%;
+  width:100px;
+}
+p{
+  color: #72579e;
+  font-family:cursive;
+}
+
+li{
+  display: inline;
+    color: black;
+}
